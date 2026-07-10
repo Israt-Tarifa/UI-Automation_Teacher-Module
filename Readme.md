@@ -132,7 +132,7 @@ To view on macOS:
 open reports/report.html
 ```
 
-![Report.png]((./pages/allure.png))
+
 
 ---
 
@@ -152,19 +152,24 @@ allure serve reports/allure-results
 
 ### 📌 Executive Overview (Allure Summary)
 
-![allure.png.png](allure.png)
+![Report.png](./pages/allure.png)
 
 ---
 
 ### Test Execution Trends & Graphical Analysis
 
-![img_2.png](img_2.png)
+![Graphs.png](./pages/graphs.png)
 
 ---
 
 ### Test behaviour Analysis
 
-![img_3.png](img_3.png)
+![behavior.png](./pages/behavior.png)
+
+---
+### Test Suits Analysis
+
+![suites.png](./pages/suites.png)
 
 ---
 
