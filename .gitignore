@@ -1,0 +1,23 @@
+# Secret credentials
+.env
+
+# Reports
+reports/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Browser driver cache
+.wdm/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
