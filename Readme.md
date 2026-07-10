@@ -132,7 +132,7 @@ To view on macOS:
 open reports/report.html
 ```
 
-![img.png](img.png)
+![Report.png]((./pages/allure.png))
 
 ---
 
