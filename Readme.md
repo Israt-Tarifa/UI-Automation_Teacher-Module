@@ -152,7 +152,7 @@ allure serve reports/allure-results
 
 ### 📌 Executive Overview (Allure Summary)
 
-![img_1.png](img_1.png)
+![allure.png.png](allure.png)
 
 ---
 
