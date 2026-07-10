@@ -222,3 +222,5 @@ allure serve reports/allure-results
 
 ## Author 
 Israt Jahan Tarifa
+---
+GitHub: https://github.com/Israt-Tarifa
